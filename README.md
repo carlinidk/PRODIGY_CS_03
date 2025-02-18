@@ -28,8 +28,8 @@ This is a simple React-based Password Strength Checker built using **Next.js** a
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/password-checker.git
-   cd password-checker
+   git clone https://github.com/carlinidk/PRODIGY_CS_03.git
+   cd PRODIGY_CS_03
    ```
 2. Install dependencies:
    ```sh
